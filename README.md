@@ -9,6 +9,11 @@ He needs to help his manager understand "Silver Tsunami" is coming as many curre
 
 ![retirement_titles](retirement_titles.png)
 
+* So Bobby had to get the table that shows the employees with unique titles.
+  * Now the information is more clean with "most recent job titles"
+
+![unique_titles](unique_titles.png)
+
 * There are more than 70,000 employees by their most recent job title who are about to retire: 
   * 72,458 
 
