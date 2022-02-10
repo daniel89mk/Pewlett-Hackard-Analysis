@@ -5,7 +5,7 @@ He needs to help his manager understand "Silver Tsunami" is coming as many curre
 # Results 
 
 * There is more than 70,000 employees by their most recent job title who are about to retire: 
-* 72,458 
+  * 72,458 
 ![retiring_titles](retiring_titles.png)
 
 
