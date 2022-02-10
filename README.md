@@ -20,10 +20,13 @@ He needs to help his manager understand "Silver Tsunami" is coming as many curre
 ![retiring_titles](retiring_titles.png)
 
 * Now, Bobby was able to retrieve the employees eligible for the mentorship program.
+  * Retrieved the information by filtering the employees to current employees and the birth date to the year of 1965: Total of 1,549 employees
 
 ![mentorship_eligibility](mentorship_eligibility.png)
 
 # Summary
 
-* How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-* Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+
+
+### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
