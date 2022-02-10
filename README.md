@@ -14,13 +14,14 @@ He needs to help his manager understand "Silver Tsunami" is coming as many curre
 
 ![unique_titles](unique_titles.png)
 
-* There are more than 70,000 employees by their most recent job title who are about to retire: 
-  * 72,458 
+* Then, Bobby could retrieve the number of employees by their most recent job title who are about to retire. 
+  * There are more than 70,000 employees by their most recent job title who are about to retire: 72,458 
 
 ![retiring_titles](retiring_titles.png)
 
+* Now, Bobby was able to retrieve the employees eligible for the mentorship program.
 
-
+![mentorship_eligibility](mentorship_eligibility.png)
 
 # Summary
 
