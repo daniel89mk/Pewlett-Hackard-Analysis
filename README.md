@@ -28,7 +28,7 @@ He needs to help his manager understand "Silver Tsunami" is coming as many curre
 # Summary
 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-72,458 roles will be retiring so we need to fill as many as 70,000 roles. 
+72,458 roles will be retiring so we need to fill as many as over 70,000 roles which Bobby's manager needs to know!  
 
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 There are not enough qualified, retirement-ready employees. We only have 1,529 employees who are eligible to join the mentorship program.
